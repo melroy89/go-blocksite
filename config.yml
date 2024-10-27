@@ -8,5 +8,7 @@ blocklist:
   sites:
     - facebook.com
     - twitter.com
+    - instagram.com
+    - bsky.social
     - linkedin.com
     - ynet.co.il
